@@ -37,15 +37,15 @@ Weight
 Price (Euros) 
 
 # Steps Taken: 
-Data Collection: Gathered laptop data from various sources.
+# Data Collection: Gathered laptop data from various sources.
 
-Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
+# Data Cleaning: Removed duplicates, handled missing values, and standardized formats.
 
-Data Exploration: Analyzed trends, distributions, and correlations between specifications and pricing.
+# Data Exploration: Analyzed trends, distributions, and correlations between specifications and pricing.
 
-Data Visualization: Used charts and graphs to present findings.
+# Data Visualization: Used charts and graphs to present findings.
 
-Insights & Conclusions: Summarized key takeaways from the analysis. 
+# Insights & Conclusions: Summarized key takeaways from the analysis. 
 
 # Tools & Technologies: 
 Python (Pandas, Matplotlib, Seaborn)
